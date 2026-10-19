@@ -9,7 +9,7 @@
   <a href="https://taco-man.in"><img alt="Website" src="https://img.shields.io/badge/taco--man.in-f0a020?style=flat-square&logo=googlechrome&logoColor=white"></a>
   <a href="mailto:rohitkumar10701@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-1f2328?style=flat-square&logo=gmail&logoColor=white"></a>
   <a href="https://drive.google.com/file/d/1qkGJIvkGy1RZzgVLFWSI7HIUkvzdUOT-/view?usp=sharing"><img alt="Resume" src="https://img.shields.io/badge/Resume-1f2328?style=flat-square&logo=readdotcv&logoColor=white"></a>
-  <img alt="LeetCode: 1,100+ problems solved" src="https://img.shields.io/badge/LeetCode-1%2C100%2B_solved-1f2328?style=flat-square&logo=leetcode&logoColor=FFA116">
+  <img alt="LeetCode: 1,400+ problems solved" src="https://img.shields.io/badge/LeetCode-1%2C400%2B_solved-1f2328?style=flat-square&logo=leetcode&logoColor=FFA116">
 </p>
 
 I build software through two lenses: **developer velocity** and **systemic reliability**.
